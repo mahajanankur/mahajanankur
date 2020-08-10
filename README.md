@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankur Mahajan</h1>
+<h1 align="center">Hi 👋, I'm Ankur</h1>
 <p align="center">
 <a href="https://linkedin.com/in/ankur-mahajan-a5271415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankur-mahajan-a5271415" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3932396/ankur-mahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3932396/ankur-mahajan" height="20" width="20" /></a>
