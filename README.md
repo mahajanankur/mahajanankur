@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SearchUnify](https://www.searchunify.com/)
 
-- 🌱 I’m currently learning **Pythone**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [dockers](https://github.com/mahajanankur/dockers)
 
