@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [dockers](https://github.com/mahajanankur/dockers)
+- 👯 I’m looking to collaborate on [dockers](https://github.com/mahajanankur/dockers) and [motifer](https://github.com/mahajanankur/motifer)
 
 - 🤝 I’m looking for help with [dockers](https://github.com/mahajanankur/dockers) and [motifer](https://github.com/mahajanankur/motifer)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur](https://github.com/mahajanankur)
 
-- 💬 Ask me about **Java, Javascript and Dockers**
+- 💬 Ask me about **Java, Javascript, Dockers and Design Patterns**
 
 - 📫 How to reach me **ankur.mahajan@hotmail.com**
 
