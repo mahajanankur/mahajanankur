@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/ankur-mahajan-a5271415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankur-mahajan-a5271415" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/3932396/ankur-mahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3932396/ankur-mahajan" height="20" width="20" /></a>
 </p>
-<h3 align="center">A passionate programmer, technical architect and a continuous learner from India 🇮🇳.</h3>
+<h3 align="center">A passionate programmer and technical architect from India 🇮🇳.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajanankur" alt="mahajanankur" /> </p>
 
