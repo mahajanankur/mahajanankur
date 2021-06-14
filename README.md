@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur](https://github.com/mahajanankur)
 
-- 💬 Ask me about **Java, Javascript, Dockers, OOPs and Design Patterns**
+- 💬 Ask me about **Java, Javascript, Dockers, OOPs and System Design**
 
 - 📫 You can reach me on **ankur.mahajan@hotmail.com**
 
