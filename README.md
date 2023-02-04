@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on [dockers](https://github.com/mahajanankur/dockers) and [motifer](https://github.com/mahajanankur/motifer)
 
-- 🤝 I’m looking for help with [dockers](https://github.com/mahajanankur/dockers) and [motifer](https://github.com/mahajanankur/motifer)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
 - 💬 Ask me about **Java, Javascript, Dockers, OOPs and System Design**
