@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [dockers](https://github.com/mahajanankur/dockers) and [motifer](https://github.com/mahajanankur/motifer)
+- 👯 I’m looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
