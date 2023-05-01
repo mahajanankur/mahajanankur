@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SearchUnify](https://www.searchunify.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
 
@@ -35,7 +35,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://www.python.org" target="_blank">
+    <a href="https://www.].org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
