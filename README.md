@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [SearchUnify](https://www.searchunify.com/)
 
-- 🌱 I’m currently learning **Blockchain**
-
 - 👯 I’m looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
-- 💬 Ask me about **Java, Javascript, Dockers, OOPs and System Design**
+- 💬 Ask me about **LLMs, Agentic AI, MCPs, Java, Javascript, Dockers, OOPs and System Design**
 
 - 📫 You can reach me on **mahajanankur.nith@gmail.com**
 
