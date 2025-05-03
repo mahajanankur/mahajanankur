@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajanankur" alt="mahajanankur" /> </p>
 
-- 🔭 I’m currently working on [SearchUnify](https://www.searchunify.com/)
+- 🔭 I’m leading AI initiatives at [SearchUnify](https://www.searchunify.com/), architecting advanced systems powered by LLMs, RAG, Agentic AI, MCPs, and hybrid & vector-search frameworks.
 
 - 👯 I’m looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
-- 💬 Ask me about **LLMs, Agentic AI, MCPs, Java, Javascript, Dockers, OOPs and System Design**
+- 💬 Ask me about: <strong>LLMs, RAG, Agentic AI, MCPs, Distributed Systems, System Design, Cloud Architecture, DevOps, and Cybersecurity</strong>
 
 - 📫 You can reach me on **mahajanankur.nith@gmail.com**
 
