@@ -7,19 +7,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajanankur" alt="mahajanankur" /> </p>
 
-- 🔭 I’m leading AI initiatives at [SearchUnify](https://www.searchunify.com/), architecting advanced systems powered by LLMs, RAG, Agentic AI, MCPs, and hybrid & vector-search frameworks.
+- 🔭 I'm leading AI initiatives at [SearchUnify](https://www.searchunify.com/), architecting advanced systems powered by LLMs, RAG, Agentic AI, MCPs, and hybrid & vector-search frameworks.
 
-- 👯 I’m looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
+- 🤖 Currently exploring: **Multi-Agent Systems, AI Orchestration, Vector Databases, Fine-tuning LLMs, AI Agents, and Next-Gen AI Architectures**
+
+- 👯 I'm looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
-- 💬 Ask me about: <strong>LLMs, RAG, Agentic AI, MCPs, Distributed Systems, System Design, Cloud Architecture, DevOps, and Cybersecurity</strong>
+- 💬 Ask me about: <strong>LLMs, RAG, Agentic AI, MCPs, Vector Databases, AI Orchestration, Multi-Agent Systems, Distributed Systems, System Design, Cloud Architecture, DevOps, and Cybersecurity</strong>
 
 - 📫 You can reach me on **mahajanankur.nith@gmail.com**
 
 - ⚡ **Make it work, make it right, make it fast.**
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">🤖 AI & ML Expertise:</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/LLM-Expert-blue?style=for-the-badge&logo=openai" alt="LLM Expert" />
+    <img src="https://img.shields.io/badge/RAG-Architect-green?style=for-the-badge&logo=vector" alt="RAG Architect" />
+    <img src="https://img.shields.io/badge/AI%20Agents-Specialist-purple?style=for-the-badge&logo=robot" alt="AI Agents" />
+    <img src="https://img.shields.io/badge/Vector%20DB-Expert-orange?style=for-the-badge&logo=database" alt="Vector DB" />
+    <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Advanced-red?style=for-the-badge&logo=network" alt="Multi-Agent" />
+    <img src="https://img.shields.io/badge/AI%20Orchestration-Lead-yellow?style=for-the-badge&logo=workflow" alt="AI Orchestration" />
+</p>
+
+<h3 align="left">🛠️ Technical Skills:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -33,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://www.].org" target="_blank">
+    <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
@@ -146,8 +158,100 @@
         <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40"
             height="40" />
     </a>
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+    </a>
+    <a href="https://huggingface.co/" target="_blank">
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40" />
+    </a>
+    <a href="https://langchain.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" alt="langchain" width="40" height="40" />
+    </a>
+    <a href="https://www.pinecone.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pinecone.svg" alt="pinecone" width="40" height="40" />
+    </a>
+    <a href="https://weaviate.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/weaviate.svg" alt="weaviate" width="40" height="40" />
+    </a>
+    <a href="https://www.chromadb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/chromadb.svg" alt="chromadb" width="40" height="40" />
+    </a>
+    <a href="https://ollama.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/ollama.svg" alt="ollama" width="40" height="40" />
+    </a>
+    <a href="https://openai.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="openai" width="40" height="40" />
+    </a>
+    <a href="https://anthropic.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/anthropic.svg" alt="anthropic" width="40" height="40" />
+    </a>
+    <a href="https://www.llamaindex.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/llamaindex.svg" alt="llamaindex" width="40" height="40" />
+    </a>
+    <a href="https://www.activeloop.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/activeloop.svg" alt="activeloop" width="40" height="40" />
+    </a>
+    <a href="https://www.mlflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mlflow.svg" alt="mlflow" width="40" height="40" />
+    </a>
+    <a href="https://wandb.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/wandb.svg" alt="wandb" width="40" height="40" />
+    </a>
+    <a href="https://www.streamlit.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/streamlit.svg" alt="streamlit" width="40" height="40" />
+    </a>
+    <a href="https://gradio.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gradio.svg" alt="gradio" width="40" height="40" />
+    </a>
+    <a href="https://www.qdrant.tech/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/qdrant.svg" alt="qdrant" width="40" height="40" />
+    </a>
+    <a href="https://www.anthropic.com/claude" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/claude.svg" alt="claude" width="40" height="40" />
+    </a>
+    <a href="https://www.cohere.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cohere.svg" alt="cohere" width="40" height="40" />
+    </a>
+    <a href="https://www.mistral.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mistral.svg" alt="mistral" width="40" height="40" />
+    </a>
+    <a href="https://www.perplexity.ai/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/perplexity.svg" alt="perplexity" width="40" height="40" />
+    </a>
 </p>
+<h3 align="left">🚀 Current AI Focus Areas:</h3>
+<p align="left">
+    • <strong>Large Language Models (LLMs):</strong> GPT-4, Claude, Llama, and custom fine-tuned models<br/>
+    • <strong>Retrieval-Augmented Generation (RAG):</strong> Advanced RAG architectures with hybrid search<br/>
+    • <strong>Vector Databases:</strong> Pinecone, Weaviate, ChromaDB, and Qdrant implementations<br/>
+    • <strong>AI Agents & Multi-Agent Systems:</strong> Autonomous agent orchestration and coordination<br/>
+    • <strong>Model Context Protocol (MCP):</strong> Next-gen AI integration standards<br/>
+    • <strong>AI Orchestration:</strong> LangChain, LlamaIndex, and custom orchestration frameworks<br/>
+    • <strong>MLOps & AI Infrastructure:</strong> MLflow, Weights & Biases, and production AI systems
+</p>
+
+<h3 align="left">📊 GitHub Analytics:</h3>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahajanankur&layout=compact&hide=html" alt="mahajanankur" width="400" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mahajanankur&show_icons=true" alt="mahajanankur" width="450" height="170"/>
+</p>
+
+<h3 align="left">🔥 AI Learning & Development:</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/Currently%20Learning-AI%20Safety-brightgreen?style=for-the-badge" alt="AI Safety" />
+    <img src="https://img.shields.io/badge/Exploring-Quantum%20ML-blue?style=for-the-badge" alt="Quantum ML" />
+    <img src="https://img.shields.io/badge/Research-AGI%20Architecture-purple?style=for-the-badge" alt="AGI Research" />
+</p>
+
+<h3 align="left">🏆 Recent AI Achievements:</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/AI%20Architecture-2024%20Leader-gold?style=for-the-badge" alt="AI Architecture Leader" />
+    <img src="https://img.shields.io/badge/RAG%20Systems-Production%20Ready-green?style=for-the-badge" alt="RAG Production" />
+    <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Advanced%20Implementation-blue?style=for-the-badge" alt="Multi-Agent Advanced" />
+    <img src="https://img.shields.io/badge/Vector%20Search-Optimized%20Performance-orange?style=for-the-badge" alt="Vector Search Optimized" />
+</p>
+
+<h3 align="left">📈 GitHub Activity:</h3>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahajanankur&theme=dark" alt="GitHub Streak" width="400" height="170"/>
 </p>
