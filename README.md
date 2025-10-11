@@ -158,66 +158,6 @@
         <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40"
             height="40" />
     </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40" />
-    </a>
-    <a href="https://langchain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40" />
-    </a>
-    <a href="https://www.pinecone.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" alt="pinecone" width="40" height="40" />
-    </a>
-    <a href="https://weaviate.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" alt="weaviate" width="40" height="40" />
-    </a>
-    <a href="https://www.chromadb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chromadb.svg" alt="chromadb" width="40" height="40" />
-    </a>
-    <a href="https://ollama.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40" />
-    </a>
-    <a href="https://openai.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40" />
-    </a>
-    <a href="https://anthropic.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="anthropic" width="40" height="40" />
-    </a>
-    <a href="https://www.llamaindex.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/llamaindex.svg" alt="llamaindex" width="40" height="40" />
-    </a>
-    <a href="https://www.activeloop.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/activeloop.svg" alt="activeloop" width="40" height="40" />
-    </a>
-    <a href="https://www.mlflow.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" alt="mlflow" width="40" height="40" />
-    </a>
-    <a href="https://wandb.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wandb.svg" alt="wandb" width="40" height="40" />
-    </a>
-    <a href="https://www.streamlit.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="streamlit" width="40" height="40" />
-    </a>
-    <a href="https://gradio.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gradio.svg" alt="gradio" width="40" height="40" />
-    </a>
-    <a href="https://www.qdrant.tech/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="qdrant" width="40" height="40" />
-    </a>
-    <a href="https://www.anthropic.com/claude" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="claude" width="40" height="40" />
-    </a>
-    <a href="https://www.cohere.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cohere.svg" alt="cohere" width="40" height="40" />
-    </a>
-    <a href="https://www.mistral.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistral.svg" alt="mistral" width="40" height="40" />
-    </a>
-    <a href="https://www.perplexity.ai/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/perplexity.svg" alt="perplexity" width="40" height="40" />
-    </a>
 </p>
 <h3 align="left">🚀 Current AI Focus Areas:</h3>
 <p align="left">
