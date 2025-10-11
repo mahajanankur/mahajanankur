@@ -162,61 +162,61 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
     </a>
     <a href="https://huggingface.co/" target="_blank">
-        <img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40" />
     </a>
     <a href="https://langchain.com/" target="_blank">
-        <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40" />
     </a>
     <a href="https://www.pinecone.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Pinecone-430098?style=for-the-badge&logo=pinecone&logoColor=white" alt="pinecone" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" alt="pinecone" width="40" height="40" />
     </a>
     <a href="https://weaviate.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Weaviate-009CE6?style=for-the-badge&logo=weaviate&logoColor=white" alt="weaviate" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" alt="weaviate" width="40" height="40" />
     </a>
     <a href="https://www.chromadb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white" alt="chromadb" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chromadb.svg" alt="chromadb" width="40" height="40" />
     </a>
     <a href="https://ollama.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40" />
     </a>
     <a href="https://openai.com/" target="_blank">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40" />
     </a>
     <a href="https://anthropic.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="anthropic" width="40" height="40" />
     </a>
     <a href="https://www.llamaindex.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logo=llamaindex&logoColor=white" alt="llamaindex" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/llamaindex.svg" alt="llamaindex" width="40" height="40" />
     </a>
     <a href="https://www.activeloop.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Activeloop-FF6B6B?style=for-the-badge&logo=activeloop&logoColor=white" alt="activeloop" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/activeloop.svg" alt="activeloop" width="40" height="40" />
     </a>
     <a href="https://www.mlflow.org/" target="_blank">
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" alt="mlflow" width="40" height="40" />
     </a>
     <a href="https://wandb.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" alt="wandb" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wandb.svg" alt="wandb" width="40" height="40" />
     </a>
     <a href="https://www.streamlit.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="streamlit" width="40" height="40" />
     </a>
     <a href="https://gradio.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white" alt="gradio" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gradio.svg" alt="gradio" width="40" height="40" />
     </a>
     <a href="https://www.qdrant.tech/" target="_blank">
-        <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=qdrant&logoColor=white" alt="qdrant" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" alt="qdrant" width="40" height="40" />
     </a>
     <a href="https://www.anthropic.com/claude" target="_blank">
-        <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="claude" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="claude" width="40" height="40" />
     </a>
     <a href="https://www.cohere.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Cohere-FF6B6B?style=for-the-badge&logo=cohere&logoColor=white" alt="cohere" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cohere.svg" alt="cohere" width="40" height="40" />
     </a>
     <a href="https://www.mistral.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Mistral-FF6B6B?style=for-the-badge&logo=mistral&logoColor=white" alt="mistral" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistral.svg" alt="mistral" width="40" height="40" />
     </a>
     <a href="https://www.perplexity.ai/" target="_blank">
-        <img src="https://img.shields.io/badge/Perplexity-FF6B6B?style=for-the-badge&logo=perplexity&logoColor=white" alt="perplexity" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/perplexity.svg" alt="perplexity" width="40" height="40" />
     </a>
 </p>
 <h3 align="left">🚀 Current AI Focus Areas:</h3>
