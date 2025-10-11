@@ -158,6 +158,9 @@
         <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40"
             height="40" />
     </a>
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+    </a>
 </p>
 <h3 align="left">🚀 Current AI Focus Areas:</h3>
 <p align="left">
