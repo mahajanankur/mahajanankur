@@ -11,7 +11,7 @@
 
 - 🤖 Currently exploring: **Multi-Agent Systems, AI Orchestration, Vector Databases, Fine-tuning LLMs, AI Agents, and Next-Gen AI Architectures**
 
-- 👯 I'm looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers) and [conman-py](https://github.com/mahajanankur/conman-py)
+- 👯 I'm looking for collaborations on [motifer](https://github.com/mahajanankur/motifer), [motifer-py](https://github.com/mahajanankur/motifer-py), [dockers](https://github.com/mahajanankur/dockers), [conman-py](https://github.com/mahajanankur/conman-py) and [BoxQ](https://github.com/mahajanankur/boxq)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahajanankur?tab=repositories](https://github.com/mahajanankur?tab=repositories)
 
